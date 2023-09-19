@@ -3,15 +3,15 @@
 main {
 	width:150px;
 	height:150px;
-	background-color:black;
+	background-color:rgb(255,255,255);
 }
 .hello-accio{
 	text-color:white;
 	left-margin:32px;
 	padding:10px;
 }
-/* p{
+p{
 	text-color:white;
 	left-margin:32px;
 	padding:10px;
-} */
+}
