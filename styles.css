@@ -3,7 +3,7 @@
 main {
 	width:150px;
 	height:150px;
-	background-color:#000000;
+	background-color:black;
 }
 .hello-accio{
 	text-color:white;
@@ -11,7 +11,7 @@ main {
 	padding:10px;
 }
 p{
-	text-color:#ffffff;
+	text-color:rgb(255,255,255);
 	left-margin:32px;
 	padding:10px;
 }
