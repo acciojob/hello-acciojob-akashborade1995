@@ -6,12 +6,12 @@ main {
 	background-color:black;
 }
 .hello-accio{
-	text-color:white;
-	left-margin:32px;
+	color:white;
+	margin-left:32px;
 	padding:10px;
 }
 p{
 	color:white;
-	left-margin:32px;
+	margin-left:32px;
 	padding:10px;
 }
